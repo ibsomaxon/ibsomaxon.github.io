@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ibsomaxon.github.io/sitemap
+Sitemap: https://ibsomaxon.github.io/app/sitemap
+Sitemap: https://ibsomaxon.github.io/assets/sitemap
+Sitemap: https://ibsomaxon.github.io/css/sitemap
+Sitemap: https://ibsomaxon.github.io/includes/sitemap
+Sitemap: https://ibsomaxon.github.io/item/sitemap
+Sitemap: https://ibsomaxon.github.io/src/sitemap
